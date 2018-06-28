@@ -1,8 +1,8 @@
 [
   {
-    "repository": "LineageOS/android_device_oneplus_msm8998-common",
+    "repository": "ATechnoHazard/android_device_oneplus_msm8998-common",
     "target_path": "device/oneplus/msm8998-common",
-    "branch": "lineage-15.1"
+    "branch": "o8.1"
   },
   {
     "repository": "LineageOS/android_device_oppo_common",

@@ -39,3 +39,6 @@ BOARD_HARDWARE_CLASS += $(DEVICE_PATH)/lineagehw
 
 # inherit from the proprietary version
 -include vendor/oneplus/cheeseburger/BoardConfigVendor.mk
+
+# Kernel clang
+TARGET_KERNEL_CLANG_COMPILE := true
